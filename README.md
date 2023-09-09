@@ -23,8 +23,7 @@ Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 NAME:V.charan sai
 REG.NO:212221240061
 ```
-
-
+```
 import pandas as pd 
 import networkx as nx 
 import matplotlib.pyplot as plt 
@@ -115,7 +114,7 @@ ax.margins(0.10)
 plt.axis("off")
 plt.show()
 
-
+```
 ## Output:
 <img width="460" alt="ap1" src="https://github.com/charansai0/Bayesian-Network/assets/94296221/36eb251d-9cc6-48e0-9d72-ca6d9ef40792">
 
